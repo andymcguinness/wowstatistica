@@ -1,0 +1,6170 @@
+{
+  "rankings": [
+    {
+      "rank": 1,
+      "score": 240.2,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15862034,
+        "mythic_level": 30,
+        "clear_time_ms": 1955185,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-22T20:22:01.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 25814,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 231321339,
+        "roster": [
+          {
+            "character": {
+              "id": 77482469,
+              "persona_id": 1339782,
+              "name": "Darodwran",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 6,
+                "name": "Tauren",
+                "slug": "tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/thrall/Darodwran",
+              "realm": {
+                "id": 465,
+                "connectedRealmId": 235,
+                "name": "Thrall",
+                "altName": null,
+                "slug": "thrall",
+                "altSlug": "thrall",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 111731131,
+              "persona_id": 40701868,
+              "name": "Lizzimcguire",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/zuljin/Lizzimcguire",
+              "realm": {
+                "id": 491,
+                "connectedRealmId": 240,
+                "name": "Zul'jin",
+                "altName": null,
+                "slug": "zuljin",
+                "altSlug": "zuljin",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 116544304,
+              "persona_id": 33759675,
+              "name": "Snowgigarat",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/stormrage/Snowgigarat",
+              "realm": {
+                "id": 452,
+                "connectedRealmId": 233,
+                "name": "Stormrage",
+                "altName": null,
+                "slug": "stormrage",
+                "altSlug": "stormrage",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138880190,
+              "persona_id": 44377452,
+              "name": "Formalx",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/zuljin/Formalx",
+              "realm": {
+                "id": 491,
+                "connectedRealmId": 240,
+                "name": "Zul'jin",
+                "altName": null,
+                "slug": "zuljin",
+                "altSlug": "zuljin",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 149033100,
+              "persona_id": 18338577,
+              "name": "Surkmanurk",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/tichondrius/Surkmanurk",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 2,
+      "score": 240.1,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15448135,
+        "mythic_level": 30,
+        "clear_time_ms": 1971334,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-20T17:09:40.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 9665,
+        "logged_run_id": 6040701,
+        "videos": [
+          {
+            "id": 802,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 25963,
+            "videoType": "youtube",
+            "videoId": "6DGBeknDvNQ",
+            "startVideoTimeSeconds": null,
+            "duration": 1944,
+            "character": {
+              "id": 152217316,
+              "persona_id": 27599,
+              "name": "Padflash",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire",
+                "class_id": 8,
+                "role": "dps",
+                "is_melee": false,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/frostmourne/Padflash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "alliance",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 229888272,
+        "roster": [
+          {
+            "character": {
+              "id": 23021687,
+              "persona_id": 2357968,
+              "name": "Ninjaristic",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/frostmourne/Ninjaristic",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 66152503,
+              "persona_id": 36214680,
+              "name": "Zorthash",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/frostmourne/Zorthash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 114193960,
+              "persona_id": 42689416,
+              "name": "Erokavoker",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 52,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/frostmourne/Erokavoker",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 152217316,
+              "persona_id": 27599,
+              "name": "Padflash",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/frostmourne/Padflash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158447313,
+              "persona_id": 32058144,
+              "name": "Luceed",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/frostmourne/Luceed",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 3,
+      "score": 234.7,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15016038,
+        "mythic_level": 29,
+        "clear_time_ms": 1707432,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-18T08:29:44.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 273567,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230481536,
+        "roster": [
+          {
+            "character": {
+              "id": 111696541,
+              "persona_id": 40736955,
+              "name": "Raisinets",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Raisinets",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 113786448,
+              "persona_id": 41603209,
+              "name": "Liuliuo",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 9,
+                "name": "Goblin",
+                "slug": "goblin",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/tichondrius/Liuliuo",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 114148721,
+              "persona_id": 18692941,
+              "name": "Chanseyx",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/sargeras/Chanseyx",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 121315490,
+              "persona_id": 43153639,
+              "name": "Yodadadr",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Yodadadr",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 149379763,
+              "persona_id": 23772473,
+              "name": "Granthi",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Granthi",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 4,
+      "score": 234.6,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 15493734,
+        "mythic_level": 29,
+        "clear_time_ms": 1567637,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-21T00:57:47.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 233362,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 5,
+      "score": 234.6,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 14994144,
+        "mythic_level": 29,
+        "clear_time_ms": 1576495,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-18T06:49:20.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 224504,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230478767,
+        "roster": [
+          {
+            "character": {
+              "id": 137440670,
+              "persona_id": 43382376,
+              "name": "Goopdroop",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Goopdroop",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 140208452,
+              "persona_id": 6190127,
+              "name": "Dorkibear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 8,
+                "name": "Troll",
+                "slug": "troll",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/sargeras/Dorkibear",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 149231054,
+              "persona_id": 3378058,
+              "name": "Junkratmain",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/sargeras/Junkratmain",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158955063,
+              "persona_id": 22299704,
+              "name": "Dwarfgoh",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/illidan/Dwarfgoh",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 160893745,
+              "persona_id": 308205,
+              "name": "Floormopzz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/zuljin/Floormopzz",
+              "realm": {
+                "id": 491,
+                "connectedRealmId": 240,
+                "name": "Zul'jin",
+                "altName": null,
+                "slug": "zuljin",
+                "altSlug": "zuljin",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 6,
+      "score": 234.3,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 7546,
+          "name": "Neltharion's Lair",
+          "short_name": "NL",
+          "slug": "neltharions-lair",
+          "expansion_id": 6,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharionslair.jpg",
+          "patch": "7.0",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            428,
+            438,
+            448,
+            462
+          ]
+        },
+        "keystone_run_id": 14991682,
+        "mythic_level": 29,
+        "clear_time_ms": 1769130,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-18T06:12:00.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 211869,
+        "logged_run_id": null,
+        "videos": [
+          {
+            "id": 773,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 232382,
+            "videoType": "twitch",
+            "videoId": "1875662605",
+            "startVideoTimeSeconds": null,
+            "duration": 1759,
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy",
+                "class_id": 2,
+                "role": "healer",
+                "is_melee": false,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 7,
+      "score": 234.3,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 14586549,
+        "mythic_level": 29,
+        "clear_time_ms": 1769187,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-16T05:43:21.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 211812,
+        "logged_run_id": null,
+        "videos": [
+          {
+            "id": 772,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 232382,
+            "videoType": "twitch",
+            "videoId": "1875674526",
+            "startVideoTimeSeconds": null,
+            "duration": 1753,
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy",
+                "class_id": 2,
+                "role": "healer",
+                "is_melee": false,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 8,
+      "score": 234.3,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 15023861,
+        "mythic_level": 29,
+        "clear_time_ms": 1617236,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-18T12:16:49.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 183763,
+        "logged_run_id": 5885078,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "alliance",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 229888272,
+        "roster": [
+          {
+            "character": {
+              "id": 23021687,
+              "persona_id": 2357968,
+              "name": "Ninjaristic",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/frostmourne/Ninjaristic",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 66152503,
+              "persona_id": 36214680,
+              "name": "Zorthash",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/frostmourne/Zorthash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 114193960,
+              "persona_id": 42689416,
+              "name": "Erokavoker",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 52,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/frostmourne/Erokavoker",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 152217316,
+              "persona_id": 27599,
+              "name": "Padflash",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/frostmourne/Padflash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158447313,
+              "persona_id": 32058144,
+              "name": "Luceed",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/frostmourne/Luceed",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 9,
+      "score": 234.2,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 13991,
+          "name": "Brackenhide Hollow",
+          "short_name": "BH",
+          "slug": "brackenhide-hollow",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_brackenhidehollow.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 2100999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1161,
+            1162,
+            1163,
+            1164
+          ]
+        },
+        "keystone_run_id": 15586233,
+        "mythic_level": 29,
+        "clear_time_ms": 1905841,
+        "keystone_time_ms": 2100999,
+        "completed_at": "2023-07-21T14:25:48.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 195158,
+        "logged_run_id": 6097807,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "alliance",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 229888272,
+        "roster": [
+          {
+            "character": {
+              "id": 23021687,
+              "persona_id": 2357968,
+              "name": "Ninjaristic",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/frostmourne/Ninjaristic",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 66152503,
+              "persona_id": 36214680,
+              "name": "Zorthash",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/frostmourne/Zorthash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 114193960,
+              "persona_id": 42689416,
+              "name": "Erokavoker",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 52,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/frostmourne/Erokavoker",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 152217316,
+              "persona_id": 27599,
+              "name": "Padflash",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/frostmourne/Padflash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158447313,
+              "persona_id": 32058144,
+              "name": "Luceed",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/frostmourne/Luceed",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 10,
+      "score": 234,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15540499,
+        "mythic_level": 29,
+        "clear_time_ms": 1821732,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-21T05:49:05.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 159267,
+        "logged_run_id": 6080547,
+        "videos": [
+          {
+            "id": 836,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 278894,
+            "videoType": "youtube",
+            "videoId": "ZpbJaATESd8",
+            "startVideoTimeSeconds": null,
+            "duration": 1904,
+            "character": {
+              "id": 102831168,
+              "persona_id": 5819919,
+              "name": "Oharroo",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 6,
+                "name": "Tauren",
+                "slug": "tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian",
+                "class_id": 11,
+                "role": "tank",
+                "is_melee": true,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/illidan/Oharroo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230845778,
+        "roster": [
+          {
+            "character": {
+              "id": 102831168,
+              "persona_id": 5819919,
+              "name": "Oharroo",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 6,
+                "name": "Tauren",
+                "slug": "tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Oharroo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 111740954,
+              "persona_id": 41539530,
+              "name": "Bigvoker",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigvoker",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 126197740,
+              "persona_id": 793928,
+              "name": "Killaks",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 10,
+                "name": "Blood Elf",
+                "slug": "blood-elf",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/malganis/Killaks",
+              "realm": {
+                "id": 396,
+                "connectedRealmId": 216,
+                "name": "Mal'Ganis",
+                "altName": null,
+                "slug": "malganis",
+                "altSlug": "malganis",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 130996730,
+              "persona_id": 19029998,
+              "name": "Mistiipriest",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/thrall/Mistiipriest",
+              "realm": {
+                "id": 465,
+                "connectedRealmId": 235,
+                "name": "Thrall",
+                "altName": null,
+                "slug": "thrall",
+                "altSlug": "thrall",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158772892,
+              "persona_id": 209657,
+              "name": "Pyrosoda",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/illidan/Pyrosoda",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 11,
+      "score": 234,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 14983497,
+        "mythic_level": 29,
+        "clear_time_ms": 1657655,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-18T04:14:19.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 143344,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 229826363,
+        "roster": [
+          {
+            "character": {
+              "id": 111696541,
+              "persona_id": 40736955,
+              "name": "Raisinets",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Raisinets",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 113786448,
+              "persona_id": 41603209,
+              "name": "Liuliuo",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 9,
+                "name": "Goblin",
+                "slug": "goblin",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/tichondrius/Liuliuo",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 114148721,
+              "persona_id": 18692941,
+              "name": "Chanseyx",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/sargeras/Chanseyx",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 121315490,
+              "persona_id": 43153639,
+              "name": "Yodadadr",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Yodadadr",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 139886174,
+              "persona_id": 3211255,
+              "name": "Pepelofe",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/zuljin/Pepelofe",
+              "realm": {
+                "id": 491,
+                "connectedRealmId": 240,
+                "name": "Zul'jin",
+                "altName": null,
+                "slug": "zuljin",
+                "altSlug": "zuljin",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 12,
+      "score": 233.9,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9164,
+          "name": "Freehold",
+          "short_name": "FH",
+          "slug": "freehold",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_freehold.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            516,
+            517,
+            518,
+            519,
+            539
+          ]
+        },
+        "keystone_run_id": 14983502,
+        "mythic_level": 29,
+        "clear_time_ms": 1668742,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-18T04:59:54.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 132257,
+        "logged_run_id": null,
+        "videos": [
+          {
+            "id": 774,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 232382,
+            "videoType": "twitch",
+            "videoId": "1875662603",
+            "startVideoTimeSeconds": null,
+            "duration": 1677,
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy",
+                "class_id": 2,
+                "role": "healer",
+                "is_melee": false,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 13,
+      "score": 233.9,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9164,
+          "name": "Freehold",
+          "short_name": "FH",
+          "slug": "freehold",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_freehold.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            516,
+            517,
+            518,
+            519,
+            539
+          ]
+        },
+        "keystone_run_id": 15000946,
+        "mythic_level": 29,
+        "clear_time_ms": 1677618,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-18T07:49:15.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 123381,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230481536,
+        "roster": [
+          {
+            "character": {
+              "id": 111696541,
+              "persona_id": 40736955,
+              "name": "Raisinets",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Raisinets",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 113786448,
+              "persona_id": 41603209,
+              "name": "Liuliuo",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 9,
+                "name": "Goblin",
+                "slug": "goblin",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/tichondrius/Liuliuo",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 114148721,
+              "persona_id": 18692941,
+              "name": "Chanseyx",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/sargeras/Chanseyx",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 121315490,
+              "persona_id": 43153639,
+              "name": "Yodadadr",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Yodadadr",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 149379763,
+              "persona_id": 23772473,
+              "name": "Granthi",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Granthi",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 14,
+      "score": 233.8,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 7546,
+          "name": "Neltharion's Lair",
+          "short_name": "NL",
+          "slug": "neltharions-lair",
+          "expansion_id": 6,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharionslair.jpg",
+          "patch": "7.0",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            428,
+            438,
+            448,
+            462
+          ]
+        },
+        "keystone_run_id": 14868924,
+        "mythic_level": 29,
+        "clear_time_ms": 1861338,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-17T16:33:40.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 119661,
+        "logged_run_id": 5821979,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 10,
+            "icon": "ability_toughness",
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage."
+          },
+          {
+            "id": 3,
+            "icon": "spell_shaman_lavasurge",
+            "name": "Volcanic",
+            "description": "While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players."
+          },
+          {
+            "id": 123,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "alliance",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 229888272,
+        "roster": [
+          {
+            "character": {
+              "id": 23021687,
+              "persona_id": 2357968,
+              "name": "Ninjaristic",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/frostmourne/Ninjaristic",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 66152503,
+              "persona_id": 36214680,
+              "name": "Zorthash",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/frostmourne/Zorthash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 114193960,
+              "persona_id": 42689416,
+              "name": "Erokavoker",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 52,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/frostmourne/Erokavoker",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 152217316,
+              "persona_id": 27599,
+              "name": "Padflash",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/frostmourne/Padflash",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158447313,
+              "persona_id": 32058144,
+              "name": "Luceed",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/frostmourne/Luceed",
+              "realm": {
+                "id": 345,
+                "connectedRealmId": 192,
+                "name": "Frostmourne",
+                "altName": null,
+                "slug": "frostmourne",
+                "altSlug": "frostmourne",
+                "locale": "en_US",
+                "isConnected": true
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 15,
+      "score": 233.7,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15360201,
+        "mythic_level": 29,
+        "clear_time_ms": 1872361,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-20T04:20:34.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 108638,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230798779,
+        "roster": [
+          {
+            "character": {
+              "id": 83454759,
+              "persona_id": 34816,
+              "name": "Maxdru",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 8,
+                "name": "Troll",
+                "slug": "troll",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Maxdru",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 111840881,
+              "persona_id": 40973624,
+              "name": "Scalytaily",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Scalytaily",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138632266,
+              "persona_id": 3736534,
+              "name": "Stever",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Stever",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138632283,
+              "persona_id": 1960884,
+              "name": "Fonts",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/area-52/Fonts",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 156182918,
+              "persona_id": 286239,
+              "name": "Terraflareii",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Terraflareii",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 16,
+      "score": 233.7,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15349945,
+        "mythic_level": 29,
+        "clear_time_ms": 1874240,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-19T21:37:36.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 106759,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 230481536,
+        "roster": [
+          {
+            "character": {
+              "id": 111696541,
+              "persona_id": 40736955,
+              "name": "Raisinets",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Raisinets",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 113786448,
+              "persona_id": 41603209,
+              "name": "Liuliuo",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 9,
+                "name": "Goblin",
+                "slug": "goblin",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/tichondrius/Liuliuo",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 114148721,
+              "persona_id": 18692941,
+              "name": "Chanseyx",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/sargeras/Chanseyx",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 121315490,
+              "persona_id": 43153639,
+              "name": "Yodadadr",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Yodadadr",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 149379763,
+              "persona_id": 23772473,
+              "name": "Granthi",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Granthi",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 17,
+      "score": 233.7,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 15669793,
+        "mythic_level": 29,
+        "clear_time_ms": 1704445,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-21T21:36:24.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 96554,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 231119485,
+        "roster": [
+          {
+            "character": {
+              "id": 111696541,
+              "persona_id": 40736955,
+              "name": "Raisinets",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/area-52/Raisinets",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 121315490,
+              "persona_id": 43153639,
+              "name": "Yodadadr",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/illidan/Yodadadr",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 148093278,
+              "persona_id": 43178228,
+              "name": "Cvsreceipt",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/malganis/Cvsreceipt",
+              "realm": {
+                "id": 396,
+                "connectedRealmId": 216,
+                "name": "Mal'Ganis",
+                "altName": null,
+                "slug": "malganis",
+                "altSlug": "malganis",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 149231054,
+              "persona_id": 3378058,
+              "name": "Junkratmain",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/sargeras/Junkratmain",
+              "realm": {
+                "id": 428,
+                "connectedRealmId": 231,
+                "name": "Sargeras",
+                "altName": null,
+                "slug": "sargeras",
+                "altSlug": "sargeras",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 158955063,
+              "persona_id": 22299704,
+              "name": "Dwarfgoh",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/illidan/Dwarfgoh",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 18,
+      "score": 233.6,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 14011,
+          "name": "Neltharus",
+          "short_name": "NELT",
+          "slug": "neltharus",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_neltharus.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 1980999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1169,
+            1170,
+            1171,
+            1172
+          ]
+        },
+        "keystone_run_id": 15127013,
+        "mythic_level": 29,
+        "clear_time_ms": 1885524,
+        "keystone_time_ms": 1980999,
+        "completed_at": "2023-07-18T22:23:00.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 95475,
+        "logged_run_id": null,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 19,
+      "score": 233.6,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 9391,
+          "name": "The Underrot",
+          "short_name": "UNDR",
+          "slug": "the-underrot",
+          "expansion_id": 7,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_underrot.jpg",
+          "patch": "8.0",
+          "keystone_timer_ms": 1800999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            506,
+            507,
+            508,
+            541,
+            644
+          ]
+        },
+        "keystone_run_id": 15692725,
+        "mythic_level": 29,
+        "clear_time_ms": 1714279,
+        "keystone_time_ms": 1800999,
+        "completed_at": "2023-07-22T03:28:06.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 86720,
+        "logged_run_id": 6144008,
+        "videos": [],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 231124977,
+        "roster": [
+          {
+            "character": {
+              "id": 77482469,
+              "persona_id": 1339782,
+              "name": "Darodwran",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 6,
+                "name": "Tauren",
+                "slug": "tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/thrall/Darodwran",
+              "realm": {
+                "id": 465,
+                "connectedRealmId": 235,
+                "name": "Thrall",
+                "altName": null,
+                "slug": "thrall",
+                "altSlug": "thrall",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          },
+          {
+            "character": {
+              "id": 111731131,
+              "persona_id": 40701868,
+              "name": "Lizzimcguire",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/zuljin/Lizzimcguire",
+              "realm": {
+                "id": 491,
+                "connectedRealmId": 240,
+                "name": "Zul'jin",
+                "altName": null,
+                "slug": "zuljin",
+                "altSlug": "zuljin",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 116544304,
+              "persona_id": 33759675,
+              "name": "Snowgigarat",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 4,
+                "name": "Night Elf",
+                "slug": "night-elf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/stormrage/Snowgigarat",
+              "realm": {
+                "id": 452,
+                "connectedRealmId": 233,
+                "name": "Stormrage",
+                "altName": null,
+                "slug": "stormrage",
+                "altSlug": "stormrage",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142238067,
+              "persona_id": 20042696,
+              "name": "Toastedbuns",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/malganis/Toastedbuns",
+              "realm": {
+                "id": 396,
+                "connectedRealmId": 216,
+                "name": "Mal'Ganis",
+                "altName": null,
+                "slug": "malganis",
+                "altSlug": "malganis",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 149033100,
+              "persona_id": 18338577,
+              "name": "Surkmanurk",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/tichondrius/Surkmanurk",
+              "realm": {
+                "id": 468,
+                "connectedRealmId": 236,
+                "name": "Tichondrius",
+                "altName": null,
+                "slug": "tichondrius",
+                "altSlug": "tichondrius",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          }
+        ],
+        "platoon": null
+      }
+    },
+    {
+      "rank": 20,
+      "score": 233.6,
+      "run": {
+        "season": "season-df-2",
+        "status": "finished",
+        "dungeon": {
+          "id": 13991,
+          "name": "Brackenhide Hollow",
+          "short_name": "BH",
+          "slug": "brackenhide-hollow",
+          "expansion_id": 9,
+          "icon_url": "/images/wow/icons/large/achievement_dungeon_brackenhidehollow.jpg",
+          "patch": "10.0.2",
+          "keystone_timer_ms": 2100999,
+          "num_bosses": 4,
+          "group_finder_activity_ids": [
+            1161,
+            1162,
+            1163,
+            1164
+          ]
+        },
+        "keystone_run_id": 15329689,
+        "mythic_level": 29,
+        "clear_time_ms": 2002694,
+        "keystone_time_ms": 2100999,
+        "completed_at": "2023-07-19T23:23:31.000Z",
+        "num_chests": 1,
+        "time_remaining_ms": 98305,
+        "logged_run_id": null,
+        "videos": [
+          {
+            "id": 829,
+            "seasonSlug": "season-df-2",
+            "createdByUserId": 232382,
+            "videoType": "twitch",
+            "videoId": "1878507764",
+            "startVideoTimeSeconds": null,
+            "duration": 2022,
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy",
+                "class_id": 2,
+                "role": "healer",
+                "is_melee": false,
+                "patch": "1.0.0"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              }
+            }
+          }
+        ],
+        "weekly_modifiers": [
+          {
+            "id": 9,
+            "icon": "achievement_boss_archaedas",
+            "name": "Tyrannical",
+            "description": "Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage."
+          },
+          {
+            "id": 124,
+            "icon": "spell_nature_cyclone",
+            "name": "Storming",
+            "description": "While in combat, enemies periodically summon damaging whirlwinds."
+          },
+          {
+            "id": 6,
+            "icon": "ability_warrior_focusedrage",
+            "name": "Raging",
+            "description": "Non-boss enemies enrage at 30% health remaining, temporarily granting immunity to crowd control effects."
+          }
+        ],
+        "num_modifiers_active": 3,
+        "faction": "mixed",
+        "deleted_at": null,
+        "keystone_platoon_id": null,
+        "keystone_team_id": 228625159,
+        "roster": [
+          {
+            "character": {
+              "id": 111698714,
+              "persona_id": 41049419,
+              "name": "Bigbirdo",
+              "class": {
+                "id": 13,
+                "name": "Evoker",
+                "slug": "evoker"
+              },
+              "race": {
+                "id": 70,
+                "name": "Dracthyr",
+                "slug": "dracthyr",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 1473,
+                "name": "Augmentation",
+                "slug": "augmentation"
+              },
+              "path": "/characters/us/illidan/Bigbirdo",
+              "realm": {
+                "id": 369,
+                "connectedRealmId": 207,
+                "name": "Illidan",
+                "altName": null,
+                "slug": "illidan",
+                "altSlug": "illidan",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 119944657,
+              "persona_id": 4088608,
+              "name": "Azunaz",
+              "class": {
+                "id": 8,
+                "name": "Mage",
+                "slug": "mage"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 63,
+                "name": "Fire",
+                "slug": "fire"
+              },
+              "path": "/characters/us/hyjal/Azunaz",
+              "realm": {
+                "id": 367,
+                "connectedRealmId": 205,
+                "name": "Hyjal",
+                "altName": null,
+                "slug": "hyjal",
+                "altSlug": "hyjal",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 138629167,
+              "persona_id": 34875545,
+              "name": "Hypeboy",
+              "class": {
+                "id": 5,
+                "name": "Priest",
+                "slug": "priest"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 258,
+                "name": "Shadow",
+                "slug": "shadow"
+              },
+              "path": "/characters/us/area-52/Hypeboy",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "dps"
+          },
+          {
+            "character": {
+              "id": 142933343,
+              "persona_id": 41797567,
+              "name": "Ellesmere",
+              "class": {
+                "id": 2,
+                "name": "Paladin",
+                "slug": "paladin"
+              },
+              "race": {
+                "id": 3,
+                "name": "Dwarf",
+                "slug": "dwarf",
+                "faction": "alliance"
+              },
+              "faction": "alliance",
+              "level": 70,
+              "spec": {
+                "id": 65,
+                "name": "Holy",
+                "slug": "holy"
+              },
+              "path": "/characters/us/area-52/Ellesmere",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "healer"
+          },
+          {
+            "character": {
+              "id": 150164085,
+              "persona_id": 121011,
+              "name": "Nerfbear",
+              "class": {
+                "id": 11,
+                "name": "Druid",
+                "slug": "druid"
+              },
+              "race": {
+                "id": 28,
+                "name": "Highmountain Tauren",
+                "slug": "highmountain-tauren",
+                "faction": "horde"
+              },
+              "faction": "horde",
+              "level": 70,
+              "spec": {
+                "id": 104,
+                "name": "Guardian",
+                "slug": "guardian"
+              },
+              "path": "/characters/us/area-52/Nerfbear",
+              "realm": {
+                "id": 264,
+                "connectedRealmId": 136,
+                "name": "Area 52",
+                "altName": null,
+                "slug": "area-52",
+                "altSlug": "area-52",
+                "locale": "en_US",
+                "isConnected": false
+              },
+              "region": {
+                "name": "United States & Oceania",
+                "slug": "us",
+                "short_name": "US"
+              },
+              "stream": null,
+              "recruitmentProfiles": []
+            },
+            "oldCharacter": null,
+            "isTransfer": false,
+            "role": "tank"
+          }
+        ],
+        "platoon": null
+      }
+    }
+  ]
+}

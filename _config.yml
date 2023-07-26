@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: WoWStatistica
+description: Statistics and data from around the Warcraft universe
 
-url: https://long-haul.netlify.app
+url: https://wowstatistica.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -21,17 +21,7 @@ navigation:
       url: /index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
+    github: andymcguinness
+    linkedin: mcguinnessandy

@@ -207,6 +207,23 @@ POST STYLING
 			transform-origin: bottom left;
 		}
 	}
+
+	.dataviz {
+		width: 75%;
+		margin: 1rem auto;
+	}
+
+	details {
+		width: 75%;
+		margin: 1rem auto;
+	}
+
+	pre {
+		width: 100%;
+		margin: 1rem auto;
+		text-wrap: wrap;
+		font-size: 1rem;
+	}
 }
 
 
